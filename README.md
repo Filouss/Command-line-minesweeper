@@ -8,7 +8,7 @@ This project allows you to play Minesweeper directly in your terminal. You can s
 
 ## How to Run
 
-Run the semestralka.exe file
+Run the semestralka.exe file in the build folder in your terminal
 
 You can run the program in two ways:
 
@@ -43,3 +43,4 @@ Example:
 - Help and error messages guide the user
 
 > _Developed by [Filouss](https://github.com/Filouss)_
+
